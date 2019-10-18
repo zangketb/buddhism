@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:1-135:12
+	package
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:6:5-133:19
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.tih.MainActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:11:9-18:21
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.tih.jiazhuoActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:19:8-21:27
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:20:10-43
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:19:18-49
+activity#com.example.tih.duoxiuActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:22:8-24:30
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:23:12-43
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:22:18-48
+activity#com.example.tih.duoActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:25:8-27:30
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:26:12-40
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:25:18-45
+activity#com.example.tih.zhuomaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:28:8-30:30
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:29:12-43
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:28:18-48
+activity#com.example.tih.bajieActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:31:8-33:20
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:32:12-42
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:31:18-47
+activity#com.example.tih.gadanlajiemaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:34:12-36:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:35:16-53
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:34:22-58
+activity#com.example.tih.lamaquebaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:37:12-39:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:38:16-50
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:37:22-55
+activity#com.example.tih.badansasongActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:40:12-42:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:41:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:40:22-57
+activity#com.example.tih.gasanbaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:43:12-45:28
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:44:16-48
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:43:22-53
+activity#com.example.tih.lanzuonanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:46:12-48:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:47:16-50
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:46:22-55
+activity#com.example.tih.danzhedbActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:49:12-51:23
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:50:16-49
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:49:22-54
+activity#com.example.tih.jienanteActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:52:12-54:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:53:16-49
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:52:22-54
+activity#com.example.tih.lanrenduidongActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:55:12-57:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:56:16-54
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:55:22-59
+activity#com.example.tih.yundanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:58:12-60:23
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:59:15-46
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:58:22-52
+activity#com.example.tih.duojuedexieActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:61:12-63:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:62:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:61:22-57
+activity#com.example.tih.badanyuncuomaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:64:12-66:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:65:16-54
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:64:22-59
+activity#com.example.tih.kuanianmaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:67:12-69:23
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:68:16-50
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:67:22-55
+activity#com.example.tih.xiexiakuayangActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:70:12-72:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:71:16-54
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:70:22-59
+activity#com.example.tih.nandegangriActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:73:12-75:28
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:74:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:73:22-57
+activity#com.example.tih.sangjuemolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:76:12-78:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:77:16-53
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:76:22-58
+activity#com.example.tih.xianbamolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:79:12-81:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:80:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:79:22-57
+activity#com.example.tih.juejiumolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:82:12-84:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:83:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:82:22-57
+activity#com.example.tih.tuotamolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:85:12-87:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:86:16-51
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:85:22-56
+activity#com.example.tih.dewajianmolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:88:12-90:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:89:16-54
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:88:22-59
+activity#com.example.tih.duogeActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:91:12-92:58
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:92:16-46
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:91:22-51
+activity#com.example.tih.zhuogaduobaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:93:12-95:23
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:94:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:93:22-57
+activity#com.example.tih.lezhimaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:96:12-98:38
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:97:16-48
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:96:22-53
+activity#com.example.tih.yangjianmaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:99:12-100:63
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:100:16-51
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:99:22-56
+activity#com.example.tih.jiahuacanjueActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:101:12-102:65
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:102:16-53
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:101:22-58
+activity#com.example.tih.manladuoqueActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:103:12-104:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:104:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:103:22-57
+activity#com.example.tih.genremolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:105:12-106:63
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:106:16-51
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:105:22-56
+activity#com.example.tih.sangdumolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:107:12-108:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:108:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:107:22-57
+activity#com.example.tih.dequemolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:109:12-110:63
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:110:16-51
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:109:22-56
+activity#com.example.tih.jiuxiemolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:111:12-112:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:112:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:111:22-57
+activity#com.example.tih.duikaomolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:113:12-114:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:114:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:113:22-57
+activity#com.example.tih.lanrenmolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:115:12-116:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:116:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:115:22-57
+activity#com.example.tih.sangemolanActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:117:12-118:63
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:118:16-51
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:117:22-56
+activity#com.example.tih.xiangbalaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:119:12-120:62
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:120:16-50
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:119:22-55
+activity#com.example.tih.danbaimaActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:121:12-122:61
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:122:16-49
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:121:22-54
+activity#com.example.tih.gedanluosangActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:123:12-124:65
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:124:16-53
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:123:22-58
+activity#com.example.tih.guaduiActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:125:12-126:59
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:126:16-47
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:125:22-52
+activity#com.example.tih.sanbalunzhiActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:127:12-128:64
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:128:16-52
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:127:22-57
+activity#com.example.tih.sanbajiActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:129:12-130:60
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:130:16-48
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:129:22-53
+activity#com.example.tih.helpActivity
+ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:131:12-132:57
+	android:label
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:132:16-45
+	android:name
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:131:22-50
+uses-sdk
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/96ec3159e9cdafe31c960eb8eede719e/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2504c5ed5ee9545e92a6ed94245b7109/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/763bcc8922987161353b83ab4da2d617/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/0e4b8c4d5beadb2d153c0a2ae7561179/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/9ebd575325adb4f1715cbd33cc7fb1eb/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/941c23b8e283edcfbd160b204c678af9/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/zangke/.gradle/caches/transforms-2/files-2.1/5e395bae4e00ec017ce476404d11e882/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/1e0d6bc8ae15351e705eea926fa992b3/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/e29b9d9bab2be31618a2ec772979406c/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/2e39cb929360acecda17a30f51c91155/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/zangke/.gradle/caches/transforms-2/files-2.1/d05cd91fa0e0d00f971cc74baae16029/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml

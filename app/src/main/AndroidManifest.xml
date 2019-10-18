@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tih"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+         </activity>
+       <activity android:name=".jiazhuoActivity"
+         android:label="@string/songsihui" >
+               </activity>
+       <activity android:name=".duoxiuActivity"
+           android:label="@string/duoxiuA" >
+                  </activity>
+       <activity android:name=".duoActivity"
+           android:label="@string/duoA">
+                  </activity>
+       <activity android:name=".zhuomaActivity"
+           android:label="@string/zhuomaA">
+                  </activity>
+       <activity android:name=".bajieActivity"
+           android:label="@string/bajieA"  >
+        </activity>
+           <activity android:name=".gadanlajiemaActivity"
+               android:label="@string/gadanlajiemaA">
+                          </activity>
+           <activity android:name=".lamaquebaActivity"
+               android:label="@string/lamaquebaA">
+                          </activity>
+           <activity android:name=".badansasongActivity"
+               android:label="@string/badansasongA">
+                          </activity>
+           <activity android:name=".gasanbaActivity"
+               android:label="@string/gasanbaA"
+               ></activity>
+           <activity android:name=".lanzuonanActivity"
+               android:label="@string/lanzuonanA">
+                          </activity>
+           <activity android:name=".danzhedbActivity"
+               android:label="@string/danzhedbA">
+           </activity>
+           <activity android:name=".jienanteActivity"
+               android:label="@string/jienanteA">
+                          </activity>
+           <activity android:name=".lanrenduidongActivity"
+               android:label="@string/lanrenduidongA">
+                          </activity>
+           <activity android:name=".yundanActivity"
+              android:label="@string/yundanA">
+           </activity>
+           <activity android:name=".duojuedexieActivity"
+               android:label="@string/duojuedexieA">
+                          </activity>
+           <activity android:name=".badanyuncuomaActivity"
+               android:label="@string/badanyuncuomaA">
+                          </activity>
+           <activity android:name=".kuanianmaActivity"
+               android:label="@string/kuanianmaA">
+           </activity>
+           <activity android:name=".xiexiakuayangActivity"
+               android:label="@string/xiexiakuayangA">
+                          </activity>
+           <activity android:name=".nandegangriActivity"
+               android:label="@string/nandegangriA"
+               ></activity>
+           <activity android:name=".sangjuemolanActivity"
+               android:label="@string/sangjuemolanA">
+                          </activity>
+           <activity android:name=".xianbamolanActivity"
+               android:label="@string/xianbamolanA">
+                          </activity>
+           <activity android:name=".juejiumolanActivity"
+               android:label="@string/juejiumolanA">
+                          </activity>
+           <activity android:name=".tuotamolanActivity"
+               android:label="@string/tuotamolanA">
+                          </activity>
+           <activity android:name=".dewajianmolanActivity"
+               android:label="@string/dewajianmolanA">
+                          </activity>
+           <activity android:name=".duogeActivity"
+               android:label="@string/duogeA"></activity>
+           <activity android:name=".zhuogaduobaActivity"
+               android:label="@string/zhuogaduobaA">
+           </activity>
+           <activity android:name=".lezhimaActivity"
+               android:label="@string/lezhimaA">
+                          </activity>
+           <activity android:name=".yangjianmaActivity"
+               android:label="@string/yangjianmaA"></activity>
+           <activity android:name=".jiahuacanjueActivity"
+               android:label="@string/jiahuacanjueA"></activity>
+           <activity android:name=".manladuoqueActivity"
+               android:label="@string/manladuoqueA"></activity>
+           <activity android:name=".genremolanActivity"
+               android:label="@string/genremolanA"></activity>
+           <activity android:name=".sangdumolanActivity"
+               android:label="@string/sangdumolanA"></activity>
+           <activity android:name=".dequemolanActivity"
+               android:label="@string/dequemolanA"></activity>
+           <activity android:name=".jiuxiemolanActivity"
+               android:label="@string/jiuxiemolanA"></activity>
+           <activity android:name=".duikaomolanActivity"
+               android:label="@string/duikaomolanA"></activity>
+           <activity android:name=".lanrenmolanActivity"
+               android:label="@string/lanrenmolanA"></activity>
+           <activity android:name=".sangemolanActivity"
+               android:label="@string/sangemolanA"></activity>
+           <activity android:name=".xiangbalaActivity"
+               android:label="@string/xiangbalaA"></activity>
+           <activity android:name=".danbaimaActivity"
+               android:label="@string/danbaimaA"></activity>
+           <activity android:name=".gedanluosangActivity"
+               android:label="@string/gedanluosangA"></activity>
+           <activity android:name=".guaduiActivity"
+               android:label="@string/guaduiA"></activity>
+           <activity android:name=".sanbalunzhiActivity"
+               android:label="@string/sanbalunzhiA"></activity>
+           <activity android:name=".sanbajiActivity"
+               android:label="@string/sanbajiA"></activity>
+           <activity android:name=".helpActivity"
+               android:label="@string/about"></activity>
+    </application>
+
+</manifest>

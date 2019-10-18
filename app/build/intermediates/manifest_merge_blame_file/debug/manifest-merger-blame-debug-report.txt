@@ -1,0 +1,332 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tih"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:6:5-133:19
+12        android:allowBackup="true"
+12-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:8:9-45
+15        android:label="@string/app_name"
+15-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:9:9-41
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:10:9-40
+18        <activity
+18-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:11:9-18:21
+19            android:name="com.example.tih.MainActivity"
+19-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:12:13-41
+20            android:label="@string/app_name" >
+20-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:13:13-45
+21            <intent-filter>
+21-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:14:13-17:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:15:17-69
+22-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:16:17-77
+24-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:16:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:19:8-21:27
+28            android:name="com.example.tih.jiazhuoActivity"
+28-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:19:18-49
+29            android:label="@string/songsihui" >
+29-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:20:10-43
+30        </activity>
+31        <activity
+31-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:22:8-24:30
+32            android:name="com.example.tih.duoxiuActivity"
+32-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:22:18-48
+33            android:label="@string/duoxiuA" >
+33-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:23:12-43
+34        </activity>
+35        <activity
+35-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:25:8-27:30
+36            android:name="com.example.tih.duoActivity"
+36-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:25:18-45
+37            android:label="@string/duoA" >
+37-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:26:12-40
+38        </activity>
+39        <activity
+39-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:28:8-30:30
+40            android:name="com.example.tih.zhuomaActivity"
+40-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:28:18-48
+41            android:label="@string/zhuomaA" >
+41-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:29:12-43
+42        </activity>
+43        <activity
+43-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:31:8-33:20
+44            android:name="com.example.tih.bajieActivity"
+44-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:31:18-47
+45            android:label="@string/bajieA" >
+45-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:32:12-42
+46        </activity>
+47        <activity
+47-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:34:12-36:38
+48            android:name="com.example.tih.gadanlajiemaActivity"
+48-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:34:22-58
+49            android:label="@string/gadanlajiemaA" >
+49-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:35:16-53
+50        </activity>
+51        <activity
+51-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:37:12-39:38
+52            android:name="com.example.tih.lamaquebaActivity"
+52-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:37:22-55
+53            android:label="@string/lamaquebaA" >
+53-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:38:16-50
+54        </activity>
+55        <activity
+55-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:40:12-42:38
+56            android:name="com.example.tih.badansasongActivity"
+56-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:40:22-57
+57            android:label="@string/badansasongA" >
+57-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:41:16-52
+58        </activity>
+59        <activity
+59-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:43:12-45:28
+60            android:name="com.example.tih.gasanbaActivity"
+60-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:43:22-53
+61            android:label="@string/gasanbaA" />
+61-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:44:16-48
+62        <activity
+62-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:46:12-48:38
+63            android:name="com.example.tih.lanzuonanActivity"
+63-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:46:22-55
+64            android:label="@string/lanzuonanA" >
+64-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:47:16-50
+65        </activity>
+66        <activity
+66-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:49:12-51:23
+67            android:name="com.example.tih.danzhedbActivity"
+67-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:49:22-54
+68            android:label="@string/danzhedbA" >
+68-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:50:16-49
+69        </activity>
+70        <activity
+70-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:52:12-54:38
+71            android:name="com.example.tih.jienanteActivity"
+71-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:52:22-54
+72            android:label="@string/jienanteA" >
+72-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:53:16-49
+73        </activity>
+74        <activity
+74-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:55:12-57:38
+75            android:name="com.example.tih.lanrenduidongActivity"
+75-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:55:22-59
+76            android:label="@string/lanrenduidongA" >
+76-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:56:16-54
+77        </activity>
+78        <activity
+78-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:58:12-60:23
+79            android:name="com.example.tih.yundanActivity"
+79-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:58:22-52
+80            android:label="@string/yundanA" >
+80-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:59:15-46
+81        </activity>
+82        <activity
+82-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:61:12-63:38
+83            android:name="com.example.tih.duojuedexieActivity"
+83-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:61:22-57
+84            android:label="@string/duojuedexieA" >
+84-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:62:16-52
+85        </activity>
+86        <activity
+86-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:64:12-66:38
+87            android:name="com.example.tih.badanyuncuomaActivity"
+87-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:64:22-59
+88            android:label="@string/badanyuncuomaA" >
+88-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:65:16-54
+89        </activity>
+90        <activity
+90-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:67:12-69:23
+91            android:name="com.example.tih.kuanianmaActivity"
+91-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:67:22-55
+92            android:label="@string/kuanianmaA" >
+92-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:68:16-50
+93        </activity>
+94        <activity
+94-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:70:12-72:38
+95            android:name="com.example.tih.xiexiakuayangActivity"
+95-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:70:22-59
+96            android:label="@string/xiexiakuayangA" >
+96-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:71:16-54
+97        </activity>
+98        <activity
+98-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:73:12-75:28
+99            android:name="com.example.tih.nandegangriActivity"
+99-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:73:22-57
+100            android:label="@string/nandegangriA" />
+100-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:74:16-52
+101        <activity
+101-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:76:12-78:38
+102            android:name="com.example.tih.sangjuemolanActivity"
+102-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:76:22-58
+103            android:label="@string/sangjuemolanA" >
+103-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:77:16-53
+104        </activity>
+105        <activity
+105-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:79:12-81:38
+106            android:name="com.example.tih.xianbamolanActivity"
+106-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:79:22-57
+107            android:label="@string/xianbamolanA" >
+107-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:80:16-52
+108        </activity>
+109        <activity
+109-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:82:12-84:38
+110            android:name="com.example.tih.juejiumolanActivity"
+110-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:82:22-57
+111            android:label="@string/juejiumolanA" >
+111-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:83:16-52
+112        </activity>
+113        <activity
+113-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:85:12-87:38
+114            android:name="com.example.tih.tuotamolanActivity"
+114-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:85:22-56
+115            android:label="@string/tuotamolanA" >
+115-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:86:16-51
+116        </activity>
+117        <activity
+117-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:88:12-90:38
+118            android:name="com.example.tih.dewajianmolanActivity"
+118-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:88:22-59
+119            android:label="@string/dewajianmolanA" >
+119-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:89:16-54
+120        </activity>
+121        <activity
+121-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:91:12-92:58
+122            android:name="com.example.tih.duogeActivity"
+122-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:91:22-51
+123            android:label="@string/duogeA" />
+123-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:92:16-46
+124        <activity
+124-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:93:12-95:23
+125            android:name="com.example.tih.zhuogaduobaActivity"
+125-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:93:22-57
+126            android:label="@string/zhuogaduobaA" >
+126-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:94:16-52
+127        </activity>
+128        <activity
+128-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:96:12-98:38
+129            android:name="com.example.tih.lezhimaActivity"
+129-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:96:22-53
+130            android:label="@string/lezhimaA" >
+130-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:97:16-48
+131        </activity>
+132        <activity
+132-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:99:12-100:63
+133            android:name="com.example.tih.yangjianmaActivity"
+133-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:99:22-56
+134            android:label="@string/yangjianmaA" />
+134-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:100:16-51
+135        <activity
+135-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:101:12-102:65
+136            android:name="com.example.tih.jiahuacanjueActivity"
+136-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:101:22-58
+137            android:label="@string/jiahuacanjueA" />
+137-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:102:16-53
+138        <activity
+138-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:103:12-104:64
+139            android:name="com.example.tih.manladuoqueActivity"
+139-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:103:22-57
+140            android:label="@string/manladuoqueA" />
+140-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:104:16-52
+141        <activity
+141-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:105:12-106:63
+142            android:name="com.example.tih.genremolanActivity"
+142-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:105:22-56
+143            android:label="@string/genremolanA" />
+143-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:106:16-51
+144        <activity
+144-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:107:12-108:64
+145            android:name="com.example.tih.sangdumolanActivity"
+145-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:107:22-57
+146            android:label="@string/sangdumolanA" />
+146-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:108:16-52
+147        <activity
+147-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:109:12-110:63
+148            android:name="com.example.tih.dequemolanActivity"
+148-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:109:22-56
+149            android:label="@string/dequemolanA" />
+149-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:110:16-51
+150        <activity
+150-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:111:12-112:64
+151            android:name="com.example.tih.jiuxiemolanActivity"
+151-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:111:22-57
+152            android:label="@string/jiuxiemolanA" />
+152-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:112:16-52
+153        <activity
+153-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:113:12-114:64
+154            android:name="com.example.tih.duikaomolanActivity"
+154-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:113:22-57
+155            android:label="@string/duikaomolanA" />
+155-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:114:16-52
+156        <activity
+156-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:115:12-116:64
+157            android:name="com.example.tih.lanrenmolanActivity"
+157-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:115:22-57
+158            android:label="@string/lanrenmolanA" />
+158-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:116:16-52
+159        <activity
+159-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:117:12-118:63
+160            android:name="com.example.tih.sangemolanActivity"
+160-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:117:22-56
+161            android:label="@string/sangemolanA" />
+161-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:118:16-51
+162        <activity
+162-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:119:12-120:62
+163            android:name="com.example.tih.xiangbalaActivity"
+163-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:119:22-55
+164            android:label="@string/xiangbalaA" />
+164-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:120:16-50
+165        <activity
+165-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:121:12-122:61
+166            android:name="com.example.tih.danbaimaActivity"
+166-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:121:22-54
+167            android:label="@string/danbaimaA" />
+167-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:122:16-49
+168        <activity
+168-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:123:12-124:65
+169            android:name="com.example.tih.gedanluosangActivity"
+169-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:123:22-58
+170            android:label="@string/gedanluosangA" />
+170-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:124:16-53
+171        <activity
+171-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:125:12-126:59
+172            android:name="com.example.tih.guaduiActivity"
+172-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:125:22-52
+173            android:label="@string/guaduiA" />
+173-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:126:16-47
+174        <activity
+174-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:127:12-128:64
+175            android:name="com.example.tih.sanbalunzhiActivity"
+175-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:127:22-57
+176            android:label="@string/sanbalunzhiA" />
+176-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:128:16-52
+177        <activity
+177-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:129:12-130:60
+178            android:name="com.example.tih.sanbajiActivity"
+178-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:129:22-53
+179            android:label="@string/sanbajiA" />
+179-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:130:16-48
+180        <activity
+180-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:131:12-132:57
+181            android:name="com.example.tih.helpActivity"
+181-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:131:22-50
+182            android:label="@string/about" />
+182-->/Users/zangke/Documents/Project/Android/buddhism/app/src/main/AndroidManifest.xml:132:16-45
+183    </application>
+184
+185</manifest>

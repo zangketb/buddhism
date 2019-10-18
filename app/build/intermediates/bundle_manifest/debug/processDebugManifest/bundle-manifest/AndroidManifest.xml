@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tih"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="27" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.tih.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.tih.jiazhuoActivity"
+            android:label="@string/songsihui" >
+        </activity>
+        <activity
+            android:name="com.example.tih.duoxiuActivity"
+            android:label="@string/duoxiuA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.duoActivity"
+            android:label="@string/duoA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.zhuomaActivity"
+            android:label="@string/zhuomaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.bajieActivity"
+            android:label="@string/bajieA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.gadanlajiemaActivity"
+            android:label="@string/gadanlajiemaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.lamaquebaActivity"
+            android:label="@string/lamaquebaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.badansasongActivity"
+            android:label="@string/badansasongA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.gasanbaActivity"
+            android:label="@string/gasanbaA" />
+        <activity
+            android:name="com.example.tih.lanzuonanActivity"
+            android:label="@string/lanzuonanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.danzhedbActivity"
+            android:label="@string/danzhedbA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.jienanteActivity"
+            android:label="@string/jienanteA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.lanrenduidongActivity"
+            android:label="@string/lanrenduidongA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.yundanActivity"
+            android:label="@string/yundanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.duojuedexieActivity"
+            android:label="@string/duojuedexieA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.badanyuncuomaActivity"
+            android:label="@string/badanyuncuomaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.kuanianmaActivity"
+            android:label="@string/kuanianmaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.xiexiakuayangActivity"
+            android:label="@string/xiexiakuayangA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.nandegangriActivity"
+            android:label="@string/nandegangriA" />
+        <activity
+            android:name="com.example.tih.sangjuemolanActivity"
+            android:label="@string/sangjuemolanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.xianbamolanActivity"
+            android:label="@string/xianbamolanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.juejiumolanActivity"
+            android:label="@string/juejiumolanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.tuotamolanActivity"
+            android:label="@string/tuotamolanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.dewajianmolanActivity"
+            android:label="@string/dewajianmolanA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.duogeActivity"
+            android:label="@string/duogeA" />
+        <activity
+            android:name="com.example.tih.zhuogaduobaActivity"
+            android:label="@string/zhuogaduobaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.lezhimaActivity"
+            android:label="@string/lezhimaA" >
+        </activity>
+        <activity
+            android:name="com.example.tih.yangjianmaActivity"
+            android:label="@string/yangjianmaA" />
+        <activity
+            android:name="com.example.tih.jiahuacanjueActivity"
+            android:label="@string/jiahuacanjueA" />
+        <activity
+            android:name="com.example.tih.manladuoqueActivity"
+            android:label="@string/manladuoqueA" />
+        <activity
+            android:name="com.example.tih.genremolanActivity"
+            android:label="@string/genremolanA" />
+        <activity
+            android:name="com.example.tih.sangdumolanActivity"
+            android:label="@string/sangdumolanA" />
+        <activity
+            android:name="com.example.tih.dequemolanActivity"
+            android:label="@string/dequemolanA" />
+        <activity
+            android:name="com.example.tih.jiuxiemolanActivity"
+            android:label="@string/jiuxiemolanA" />
+        <activity
+            android:name="com.example.tih.duikaomolanActivity"
+            android:label="@string/duikaomolanA" />
+        <activity
+            android:name="com.example.tih.lanrenmolanActivity"
+            android:label="@string/lanrenmolanA" />
+        <activity
+            android:name="com.example.tih.sangemolanActivity"
+            android:label="@string/sangemolanA" />
+        <activity
+            android:name="com.example.tih.xiangbalaActivity"
+            android:label="@string/xiangbalaA" />
+        <activity
+            android:name="com.example.tih.danbaimaActivity"
+            android:label="@string/danbaimaA" />
+        <activity
+            android:name="com.example.tih.gedanluosangActivity"
+            android:label="@string/gedanluosangA" />
+        <activity
+            android:name="com.example.tih.guaduiActivity"
+            android:label="@string/guaduiA" />
+        <activity
+            android:name="com.example.tih.sanbalunzhiActivity"
+            android:label="@string/sanbalunzhiA" />
+        <activity
+            android:name="com.example.tih.sanbajiActivity"
+            android:label="@string/sanbajiA" />
+        <activity
+            android:name="com.example.tih.helpActivity"
+            android:label="@string/about" />
+    </application>
+
+</manifest>
